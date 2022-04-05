@@ -6,6 +6,6 @@ Moreover, we will then load the top 1000 records of the original 4000 into a sep
 hence, this project will also highlight how to export new csv files using Python codes.
 ## Getting Started
 ### Dependencies
-Anaconda navigator
-Jupyter notebook
+* Anaconda navigator
+* Jupyter notebook
 Python Libraries
